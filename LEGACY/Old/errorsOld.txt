@@ -1,0 +1,624 @@
+A(n) error occured while processing http://codeforces.com/blog/entry/18:
+'плохо'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/26:
+'успеть'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/33:
+'Introduction'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/40:
+'Поднебесной'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/41:
+'more'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/47:
+'Поднебесной'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/49:
+'Поднебесной'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/50:
+'contest'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/51:
+'начала'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/56:
+'results'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/57:
+'Баг'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/58:
+'пост'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/59:
+'finished'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/60:
+'другое'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/62:
+'приложения'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/67:
+'камень'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/68:
+'dojo'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/71:
+'org'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/72:
+'саморазвитии'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/73:
+'вкладе'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/77:
+'настройках'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/80:
+'Читерство'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/82:
+'com'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/83:
+'with'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/86:
+'контестах'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/87:
+local variable 'word' referenced before assignment
+
+A(n) error occured while processing http://codeforces.com/blog/entry/89:
+'Баг'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/91:
+'языки'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/92:
+'задачи'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/102:
+'System'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/103:
+'С'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/108:
+'D'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/111:
+'org'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/112:
+'бриллианты'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/115:
+'доске'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/120:
+'Server'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/121:
+'TopCoder'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/122:
+'попугая'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/123:
+'Maintenance'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/126:
+'Ranks'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/129:
+'Began'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/131:
+';'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/132:
+'сайта'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/134:
+'Post'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/135:
+'Cut'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/138:
+'0'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/141:
+'3'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/142:
+'эмоции'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/143:
+';'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/144:
+'3'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/147:
+'Day'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/148:
+'Introduction'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/149:
+'3'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/150:
+'наградах'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/156:
+'картинках'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/157:
+'useful'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/158:
+'4'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/160:
+'4'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/161:
+'4'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/162:
+'4'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/163:
+'4'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/164:
+'4'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/165:
+'data'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/166:
+'Java'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/168:
+'4'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/171:
+'code'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/172:
+'5'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/173:
+'УрГУ'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/174:
+'Round3'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/176:
+'себе'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/181:
+'фильмов'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/188:
+'Contest'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/189:
+'Java'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/196:
+'5'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/199:
+'Контесты'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/207:
+'flow'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/211:
+'Viewing'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/217:
+'465'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/218:
+'программиста'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/219:
+'мышления'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/220:
+'6'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/221:
+'Warning'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/227:
+'Е'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/230:
+'Calendar'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/235:
+'7'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/238:
+'меня'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/239:
+'7'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/241:
+'7'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/243:
+'Report'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/246:
+'7'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/247:
+'TopCoder'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/256:
+'ICL'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/258:
+'8'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/261:
+'Peter'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/264:
+'8'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/265:
+'offers'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/267:
+'crowdsourcing'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/268:
+'Randoms'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/269:
+'Python'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/270:
+'userbar'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/274:
+'Tetris'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/276:
+'9'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/278:
+'9'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/286:
+'лошадки'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/289:
+'олимпиад'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/290:
+'minimum'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/296:
+'черноглазые'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/298:
+'10'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/299:
+'system'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/303:
+'контестах'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/306:
+'10'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/307:
+'CF10'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/308:
+'друзей'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/309:
+'друзей'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/313:
+'467'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/316:
+'or'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/317:
+'benchmark'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/318:
+'CodeForces'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/319:
+'графы'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/323:
+'гуманитариев'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/325:
+'Type'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/326:
+'School'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/327:
+'было'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/329:
+'информатике'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/332:
+'рейтингу'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/337:
+'classics'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/338:
+'программы'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/348:
+'tonight'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/349:
+'Calendar'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/351:
+'FML'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/352:
+'motivation'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/355:
+'13'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/358:
+'issue'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/364:
+'13'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/368:
+'Квебек'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/371:
+'Algorithm'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/372:
+'поиске'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/373:
+'B'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/376:
+'Subsequence'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/380:
+'10'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/381:
+'команды'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/387:
+'paths'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/388:
+'Беларуси'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/397:
+'timings'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/399:
+'SRM'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/400:
+'Calendar'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/401:
+'непонятный'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/403:
+'quot'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/411:
+'15'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/412:
+'statements'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/425:
+'promoted'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/426:
+'participate'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/427:
+'are'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/430:
+'IPSC'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/440:
+'Юмор'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/442:
+'Предложение'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/444:
+'Voodoo'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/445:
+'Calendar'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/447:
+'17'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/450:
+'graph'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/451:
+'17'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/452:
+'3'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/453:
+'Sets'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/454:
+'Сборы'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/457:
+'Competition'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/458:
+'будущее'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/463:
+'18'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/465:
+'473'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/484:
+'19'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/485:
+'data'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/489:
+'Bangladesh'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/492:
+'Network'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/493:
+'Игромания'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/494:
+'Track'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/498:
+'Java'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/499:
+'code'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/508:
+'474'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/509:
+'Севастополе'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/517:
+'Contest'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/521:
+'475'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/525:
+'3'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/528:
+'23'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/529:
+'CodeForces'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/531:
+'Bookmark'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/532:
+'IDE'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/534:
+'кубка'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/536:
+'рулит'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/540:
+'Сборы'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/543:
+'4'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/545:
+'Off'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/547:
+local variable 'word' referenced before assignment
+
+A(n) error occured while processing http://codeforces.com/blog/entry/550:
+'Tutorials'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/551:
+'subseq'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/553:
+'24'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/555:
+'477'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/556:
+'Final'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/557:
+'24'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/564:
+'poster'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/572:
+'10'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/575:
+'478'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/577:
+'нормальный'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/580:
+'5'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/592:
+'продолжение'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/594:
+'25'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/598:
+'479'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/599:
+'фото'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/600:
+'результаты'
+
+A(n) error occured while processing http://codeforces.com/blog/entry/604:
+'Game'
+

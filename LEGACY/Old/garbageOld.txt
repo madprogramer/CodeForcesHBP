@@ -1,0 +1,70 @@
+Memories: ACM-ICPC World Finals 2009: http://codeforces.com/blog/entry/2
+Hello world!: http://codeforces.com/blog/entry/5
+HI ALL: http://codeforces.com/blog/entry/9
+Math.sqrt() vs Math.hypot() или как находить расстояния.: http://codeforces.com/blog/entry/20
+Hello, World!: http://codeforces.com/blog/entry/21
+Hello World: http://codeforces.com/blog/entry/22
+...: http://codeforces.com/blog/entry/27
+ipsilon 2.0 и грабли: http://codeforces.com/blog/entry/46
+Back home!: http://codeforces.com/blog/entry/69
+<p>Petr Mitrichev, Last 3 days in Sao Paulo Training Camp 2010</p>: http://codeforces.com/blog/entry/70
+start: http://codeforces.com/blog/entry/75
+100 узников и 100 коробок: http://codeforces.com/blog/entry/114
+TopCoder IDEA plugin: http://codeforces.com/blog/entry/119
+hello world!=): http://codeforces.com/blog/entry/137
+Unix среда разработки для C++...: http://codeforces.com/blog/entry/153
+CF beta 4: ?!?!?!?!: http://codeforces.com/blog/entry/170
+What is the solution of C, round 3: http://codeforces.com/blog/entry/179
+First (test) blog post and self introduction: http://codeforces.com/blog/entry/182
+Problem Solving by Guessing!: http://codeforces.com/blog/entry/187
+Just for test: http://codeforces.com/blog/entry/193
+Preliminary translation of Russian texts into English.: http://codeforces.com/blog/entry/202
+Help! Задача C - Наибольшая правильная скобочная подстрока: http://codeforces.com/blog/entry/209
+ACM ICPC World Finals: http://codeforces.com/blog/entry/216
+TopCoder Open 2010 is announced!: http://codeforces.com/blog/entry/234
+Hmmm... Seems an ideal place to practise my written English: http://codeforces.com/blog/entry/237
+PCMS2: http://codeforces.com/blog/entry/253
+Choosing the weapon.: http://codeforces.com/blog/entry/254
+Just lost rating for this lame bug.: http://codeforces.com/blog/entry/259
+Codeforces. Всегда с тобой.: http://codeforces.com/blog/entry/260
+bettercodes.org now online // we need your participation: http://codeforces.com/blog/entry/266
+I have a question: http://codeforces.com/blog/entry/275
+Ask about the judge.: http://codeforces.com/blog/entry/277
+Round #9 problem D: http://codeforces.com/blog/entry/279
+Hello World!!!: http://codeforces.com/blog/entry/281
+Oh, no...: http://codeforces.com/blog/entry/285
+Code Game Challenge - Добро пожаловать!: http://codeforces.com/blog/entry/302
+MIPT Open Warmup I. Разбор задач.: http://codeforces.com/blog/entry/330
+Question about C# Mono.: http://codeforces.com/blog/entry/350
+i want to increase my dynamic programming: http://codeforces.com/blog/entry/359
+A bug which caused more than 20 submits.: http://codeforces.com/blog/entry/361
+Reliability of standard libraries in Java: http://codeforces.com/blog/entry/365
+http://codeforces.ru/blog/entry/265: http://codeforces.com/blog/entry/375
+Python V.S. C++: http://codeforces.com/blog/entry/383
+I don't understand Problem D. Can any one explain me ?: http://codeforces.com/blog/entry/384
+GCJ 2010 Round 1-C. Задача B.: http://codeforces.com/blog/entry/392
+Single Round Match - 471 &gt;.&lt;: http://codeforces.com/blog/entry/398
+Runtime Error на 1 тесте в задаче Letter. Может кто подсказать, что не так?: http://codeforces.com/blog/entry/409
+Hello World: http://codeforces.com/blog/entry/413
+Hello World!: http://codeforces.com/blog/entry/421
+Kill backtracking!: http://codeforces.com/blog/entry/455
+Questions about a problem: http://codeforces.com/blog/entry/460
+Need help for this problem: http://codeforces.com/blog/entry/464
+How to swap two variables w/o using a third variable: http://codeforces.com/blog/entry/475
+A median problem: http://codeforces.com/blog/entry/476
+Standings table improvements: http://codeforces.com/blog/entry/481
+Random thoughts on codeforces: http://codeforces.com/blog/entry/482
+codechef  practice problem: http://codeforces.com/blog/entry/483
+A Contest from Dinajpur, Bangladesh: http://codeforces.com/blog/entry/488
+Graph problem: http://codeforces.com/blog/entry/490
+Graph problem: http://codeforces.com/blog/entry/491
+spoj problem: http://codeforces.com/blog/entry/503
+round 22 problem C: http://codeforces.com/blog/entry/506
+uwi wrecked the eval!!!: http://codeforces.com/blog/entry/522
+Need help with a problem: http://codeforces.com/blog/entry/527
+I found an interesting bug.: http://codeforces.com/blog/entry/554
+Facebook оценил рейтинг Codeforces.: http://codeforces.com/blog/entry/560
+Please give a hint at a problem.: http://codeforces.com/blog/entry/574
+Need some hints .: http://codeforces.com/blog/entry/576
+P != NP: http://codeforces.com/blog/entry/595
+15th August - Happy Independence Day!!!!!: http://codeforces.com/blog/entry/602
