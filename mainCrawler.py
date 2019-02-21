@@ -12,27 +12,33 @@ def CLEAN(mess):
 	no_tags = tag_re.sub('', mess)
 	ready = cgi.escape(no_tags)
 	return ready
+
 #Adapted From: https://stackoverflow.com/a/3801846/2089784
 #Splits strings into words, but also splits Chinese sentences into characters
+"""
 def SPLIT(s):
-    regex = []
-    # Match a whole word:
-    regex += [r'\w+']
+  regex = []
+  # Match a whole word:
+  regex += [r'\w+']
 
-    # Chinese Characters
-    regex += [r'[\u4e00-\ufaff]']
-    
-    #Thai Characters
-    #regex += [r'[\u0e00–\u0e7f]']
+  # Chinese Characters
+  regex += [r'[\u4e00-\ufaff]']
 
-    # Match one of anything else, except for spaces:
-    regex += [r'[^\s]']
+  #Thai Characters
+  #regex += [r'[\u0e00–\u0e7f]']
 
-    regex = "|".join(regex)
-    r = re.compile(regex)
+  # Match one of anything else, except for spaces:
+  regex += [r'[^\s]']
 
-    return r.findall(s)
+  regex = "|".join(regex)
+  r = re.compile(regex)
 
+  return r.findall(s)
+"""
+
+#Adjust Data
+def adjustData(data):
+ return data.text.replace("\xa0", " ").replace("\xc2", " ")
 
 # String Formatting Utilies
 #
@@ -41,8 +47,8 @@ def SPLIT(s):
 def BlogDataURL(x,language="en"):
 	return 'http://codeforces.com/api/blogEntry.view?blogEntryId={}&lang={}'.format(x,language)
 
-def saveFileFor(x, target="/saves", language = "en")
-	return target+'/{}{}'.format(language,x)
+def saveFileFor(x, target="saves", language = "en"):
+	return target+'/{}{}.json'.format(language,x)
 
 # Error Handling
 #
@@ -86,7 +92,7 @@ def grab(index):
 	return requests.get(address)
 
 def saveToFile(index,data,language='en',path=''):
-	with open(saveFileFor(index),"w") as F:
+	with open(saveFileFor(index),mode="w") as F:
 		F.write(data)
 
 # MAIN
@@ -94,16 +100,25 @@ def saveToFile(index,data,language='en',path=''):
 #
 
 def main(argv):
-	checkRange(argv)
+    
+	#print(argv)
+	#checkRange(argv)
+    
 	start,end = argv[0],argv[1]
 	for i in range(start,end+1):
 		try: 
 			data = grab(i)
+			data=adjustData(data)
+			if (i % 100 == 0):
+				print("Saved {}",i)
 			saveToFile(i,data)
-		except:
-			print('An error occured at index {}\n Skipping...'.format(i))
+		except Exception as e:
+			print(e)
 	print('done.')
+#if __name__ == "__main__":
+#    main(sys.argv[1:])
 
 
-if __name__ == "__main__":
-    main(sys.argv[1:])
+
+#Custom main call
+#main([1,1000])
